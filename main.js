@@ -45,6 +45,10 @@ $(document).ready(function(){
     "i mama the yes",
     "i was really scsre",
     'wait in verve fou d out what hapenfef friday',
+    'you are that’s is mean',
+    'ima no your are not fumb',
+    'fit you yes mmhmm',
+    'that os mo tou are beam',
   ]
 
   const moreThanKontoDictionary = [
