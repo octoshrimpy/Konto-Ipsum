@@ -49,6 +49,9 @@ $(document).ready(function(){
     'ima no your are not fumb',
     'fit you yes mmhmm',
     'that os mo tou are beam',
+    'fhhcd haha yeah I redmevn he did those I can’t help I Sanjay the run',
+    'he coming',
+    'i will mmhmmm yes brb',
   ]
 
   const moreThanKontoDictionary = [
@@ -76,7 +79,10 @@ $(document).ready(function(){
     'the putter of inconvenience will do for now',
     'I am your parent now',
     'shake my good hotdog',
-    'startles the neighbors'
+    'startles the neighbors',
+    'grandma\'s manwich time',
+    'have revenge on revenge',
+    'yeeet',
   ]
 
   const puctuationDictionary  = [
