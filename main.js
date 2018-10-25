@@ -83,6 +83,7 @@ $(document).ready(function(){
     'grandma\'s manwich time',
     'have revenge on revenge',
     'yeeet',
+    'wjat dod je say',
   ]
 
   const puctuationDictionary  = [
