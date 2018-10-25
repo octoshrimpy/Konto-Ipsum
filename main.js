@@ -84,6 +84,7 @@ $(document).ready(function(){
     'have revenge on revenge',
     'yeeet',
     'wjat dod je say',
+    'Prnoto kton',
   ]
 
   const puctuationDictionary  = [
