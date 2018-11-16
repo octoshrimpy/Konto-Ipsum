@@ -52,6 +52,9 @@ $(document).ready(function(){
     'fhhcd haha yeah I redmevn he did those I can’t help I Sanjay the run',
     'he coming',
     'i will mmhmmm yes brb',
+    'gre9i haerghmpkareg',
+    'i will nefd[kgwead;lae',
+    'i won\'t allow you some the words for it'
   ]
 
   const moreThanKontoDictionary = [
