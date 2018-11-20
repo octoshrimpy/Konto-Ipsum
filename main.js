@@ -54,7 +54,10 @@ $(document).ready(function(){
     'i will mmhmmm yes brb',
     'gre9i haerghmpkareg',
     'i will nefd[kgwead;lae',
-    'i won\'t allow you some the words for it'
+    'i won\'t allow you some the words for it',
+    'yes thank you habds',
+    'englidhs is har',
+    'idk kewqfleqhinfewqn [qf'
   ]
 
   const moreThanKontoDictionary = [
