@@ -1,3 +1,3 @@
 Konto-Ipsum
 
-octoshrimpy.github.io/konto-ipsum/
+https://octoshrimpy.github.io/konto-ipsum
