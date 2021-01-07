@@ -2,4 +2,4 @@
 
 Lorem-Ipsum generator using a friend's midnight ramblings
 
-https://octoshrimpy.github.io/konto-ipsum
+https://octoshrimpy.github.io/Konto-Ipsum
