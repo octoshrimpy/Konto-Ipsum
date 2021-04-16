@@ -95,6 +95,7 @@ $(document).ready(function(){
     'wtf I\'m dlrpp bai',
     'chiigfies chosse cogfwrs COGGERS',
     'I\'m donre',
+    'OKAY I\'LL GO TO SLOOP Sleeoi SLEEPO',   
   ]
 
   const puctuationDictionary  = [
