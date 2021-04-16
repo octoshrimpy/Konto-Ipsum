@@ -91,6 +91,9 @@ $(document).ready(function(){
     'yeeet',
     'wjat dod je say',
     'Prnoto kton',
+    'USES ADDRESS ES 3RD UP JULI',
+    'wtf I\'m dlrpp bai',
+
   ]
 
   const puctuationDictionary  = [
