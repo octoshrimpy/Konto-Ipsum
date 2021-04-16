@@ -93,7 +93,8 @@ $(document).ready(function(){
     'Prnoto kton',
     'USES ADDRESS ES 3RD UP JULI',
     'wtf I\'m dlrpp bai',
-
+    'chiigfies chosse cogfwrs COGGERS',
+    'I\'m donre',
   ]
 
   const puctuationDictionary  = [
